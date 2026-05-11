@@ -18,3 +18,7 @@
    git clone https://github.com/broke6006/supreme-waffle.git
    cd supreme-waffle
    ```
+2. Запустите приложение:
+   ```
+   python main.py
+   ```
